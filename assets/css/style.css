@@ -1641,7 +1641,7 @@ section {
   color: #37517e;
 }
 
-#footer .footer-newsletter form input[type="submit"] {
+#footer .footer-newsletter form {
   margin-top: 30px;
   background: #fff;
   padding: 6px 10px;
@@ -1663,7 +1663,7 @@ section {
   right: 0;
   bottom: 0;
   border: 0;
-  background: none;
+  background: #fff;
   font-size: 16px;
   padding: 0 20px;
   background: #47b2e4;
